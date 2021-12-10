@@ -9,6 +9,5 @@ try:
 except(ValueError):
     print("please give proper input")
 else:
-    
     print("addion of two numbers is",add)
     print("Division of two numbers is:",div)
