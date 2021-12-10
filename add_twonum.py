@@ -10,8 +10,6 @@ try:
     div=x/y
 except(ValueError):
     print("please give proper input")
-except(ZeroDivisionError):
-    print()
 else:
     print("addion of two numbers is",add)
     print("Division of two numbers is:",div)
